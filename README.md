@@ -1,2 +1,2 @@
 # Powershell-Snippets
-Here be various Powershell Snippets for various use cases
+This is a collection smaller powershell code segments that I've found useful.
